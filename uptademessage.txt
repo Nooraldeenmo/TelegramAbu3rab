@@ -1,0 +1,30 @@
+{
+  "Gold": {
+    "update_code": "5",
+    "reminder_time": "3",
+    "update_version": "v3.7.0",
+    "org.telegram.gold": "https://linktoupdate.com/dlltele",
+    "update_message": "
+<p>Update Vتحديث 3.7.0</p>
+<li>تحديث الكود المصدر إلى الإصدار 11.1.3.1.</li>
+<li>دعم هدايا نجوم تيليجرام.</li>
+<li>العرض الفوري لمتصفح التطبيقات.</li>
+<li>تحسينات التطبيق الصغير.</li>
+<li>دعم ردود الفعل النجمية.</li>
+<li>يمكن الآن ضبط فترة الحذف التلقائي للحساب على 18 أو 24 شهرًا.</li>
+<li>يمكنك الآن إعادة توجيه الرسائل إلى مواضيع المنتدى.</li>
+<li>تمت إزالة قائمة "الأشخاص القريبين".</li>
+<li>تم إصلاح العديد من الأخطاء.</li>
+
+<li>Source code updated to v11.1.3.1.</li>
+<li>Support for Telegram Stars giveaways.</li>
+<li>Instant View for App Browser.</li>
+<li>Mini App Improvements.</li>
+<li>Support for Star Reactions.</li>
+<li>The auto-delete account period can now be set to 18 or 24 months.</li>
+<li>You can now forward messages to forum topics.</li>
+<li>The “People Nearby” menu has been removed.</li>
+<li>Numerous bugs have been fixed.</li>
+"
+    }
+}
