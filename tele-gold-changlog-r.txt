@@ -1,0 +1,11 @@
+Version 3.7.0 Changelog:
+
+>Source code updated to v11.1.3.1.
+>Support for Telegram Stars giveaways.
+>Instant View for App Browser.
+>Mini App Improvements.
+>Support for Star Reactions.
+>The auto-delete account period can now be set to 18 or 24 months.
+>You can now forward messages to forum topics.
+>The “People Nearby” menu has been removed.
+>Numerous bugs have been fixed.
